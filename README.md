@@ -1,1 +1,1 @@
-# weibull-wind-turbine
+# Weibull Distribution for Wind Turbine Analysis
